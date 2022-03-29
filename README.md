@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @krujman
+- 👀 I’m interested in learning a bit of basic coding
+- 🌱 I’m currently learning the basics of python and data analytics
